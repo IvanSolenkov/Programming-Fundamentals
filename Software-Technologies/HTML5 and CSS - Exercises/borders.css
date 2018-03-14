@@ -1,0 +1,33 @@
+.red{
+    border: #ff0100 1px solid;
+    border-radius: 3px;
+    background-color: #d3d3d3;
+    text-align: center;
+    text-size: large;
+    width: 200px;
+}
+.red2{
+    color: #ff0100;
+}
+.blue{
+    border: #0700ff 1px solid;
+    border-radius: 3px;
+    background-color: #d3d3d3;
+    text-align: center;
+    text-size: large;
+    width: 200px;
+}
+.blue2{
+    color: #0700ff;
+}
+.green{
+    border: #128000 1px solid;
+    border-radius: 3px;
+    background-color: #d3d3d3;
+    text-align: center;
+    text-size: large;
+    width: 200px;
+}
+.green2{
+    color: #128000;
+}
